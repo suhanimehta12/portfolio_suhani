@@ -87,7 +87,7 @@ portfolio/
 
 ---
 
-## 🌐 Deploy to Vercel (Free, 2 min)
+## 🌐 Deploy to Vercel
 
 1. Push this folder to a GitHub repo
 2. Go to [vercel.com](https://vercel.com) → Import Project
