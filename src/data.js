@@ -1,7 +1,3 @@
-// ─── SCREENSHOTS IMPORTS (VITE SAFE) ─────────────────────────
-import video1 from "./assets/screenshots/video-1.png";
-import vision1 from "./assets/screenshots/vision-1.png";
-import hr1 from "./assets/screenshots/hr-1.png";
 
 // ─── PERSONAL ───────────────────────────────────────────────
 export const personal = {
@@ -101,7 +97,6 @@ export const projects = [
     github: "https://github.com/suhanimehta12/video-captioning-app",
     live: "https://glistening-bavarois-f92dd1.netlify.app/",
     backend: "https://video-captioning-app-pgo9.onrender.com",
-    screenshots: [video1],
     featured: true,
   },
 
@@ -119,7 +114,6 @@ export const projects = [
     ],
     github: "https://github.com/suhanimehta12/ai-comment-moderation",
     live: "https://ai-comment-moderation-43h1.vercel.app/",
-    screenshots: [vision1],
     featured: true,
   },
 
@@ -136,7 +130,6 @@ export const projects = [
       "Feedback system",
     ],
     github: "https://github.com/suhanimehta12/image-caption-filtering",
-    screenshots: [vision1],
     featured: true,
   },
 
@@ -153,7 +146,6 @@ export const projects = [
       "Dashboards",
     ],
     github: "https://github.com/suhanimehta12/hr-navigation-tool",
-    screenshots: [hr1],
     featured: true,
   },
 
